@@ -1,0 +1,11 @@
+imbalanced_learn==0.13.0
+imblearn==0.0
+joblib==1.4.2
+kneed==0.8.5
+matplotlib==3.10.0
+networkx==3.4.2
+numpy==2.2.2
+pandas==2.2.3
+pgmpy==0.1.26
+pyswip==0.3.2
+scikit_learn==1.6.1
