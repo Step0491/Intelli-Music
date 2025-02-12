@@ -20,7 +20,7 @@ Il dataset impiegato nel progetto è stato installato dalla piattaforma Kaggle, 
 
 ## Punti Chiave del Progetto
 
-- **1️ Configurazione iniziale**
+- **1 Configurazione iniziale**
 Importa molte librerie, tra cui pandas, sklearn, streamlit, e moduli personalizzati (SongsProlog, unsupervisedLearning, ecc.).
 
 - **2 Pulizia e Preprocessing del Dataset**
